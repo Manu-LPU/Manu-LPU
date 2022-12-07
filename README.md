@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Manu-LPU
-- 👀 I’m interested in Dara Analytics with efficient skillset in python and DBMS
+- 👀 I’m interested in Data Analytics with efficient skillset in python and DBMS
 - 🌱 I’m currently learning HTML alomg with JAVA script
 - 💞️ I’m looking to collaborate on projects based on DBMS as well as python
 - 📫 How to reach me insta:@_bluesirius._
